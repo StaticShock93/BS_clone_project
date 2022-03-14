@@ -566,7 +566,9 @@ footer a i:hover {
     margin: 0;
     width: 100%;
   }
-
+  main {
+    text-align: center;
+  }
   .main-section-header {
     display: grid;
     grid-template-columns: 1fr;
