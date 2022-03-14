@@ -625,7 +625,7 @@ footer a i:hover {
     justify-content: center;
   }
 
-  section .features-section,
+  .features-section-wrapper,.features-section,
   .jsDeliver-section {
     display: grid;
     grid-template-columns: 1fr;
