@@ -1,4 +1,6 @@
 * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
   --BS-purple: #7952b3;
   --BS-blue: #0d6efd;
