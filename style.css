@@ -669,4 +669,9 @@ footer a i:hover {
   .footer-title-wrapper {
     font-size: 0.6rem;
   }
+
+  .official-themes-img-container img,
+  .BS-img-container img{
+    width: 80vw;
+  }
 }
