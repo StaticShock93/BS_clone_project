@@ -214,7 +214,7 @@ button {
   image-rendering: -webkit-optimize-contrast;
 }
 
-.features-section {
+section .features-section {
   width: 100%;
 }
 
@@ -625,11 +625,12 @@ footer a i:hover {
     justify-content: center;
   }
 
-  .features-section,
+  section .features-section,
   .jsDeliver-section {
     display: grid;
     grid-template-columns: 1fr;
     text-align: center;
+
   }
 
   .npm-text {
