@@ -1,3 +1,3 @@
-Pixel Perfect clone of the classic Bootstrap 5 landing page using custom HTML and CSS
-Check out the link below to see it deployed live via Netlify
+Bootstrap without the bootstrap... 
+A simple and satisfying clone of the good 'ol Bootstrap 5 landing page using our best friends HTML and CSS
 https://vibrant-goldstine-32ec91.netlify.app/  
